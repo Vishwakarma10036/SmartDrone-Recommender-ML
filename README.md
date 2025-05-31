@@ -1,6 +1,3 @@
-# SmartDrone-Recommender-ML
-SmartDrone-Recommender-ML is a Machine Learning-powered system designed to assist drone developers, hobbyists, and researchers in selecting optimal drone components based on payload requirements. By inputting the desired payload weight, the system intelligently recommends suitable drone components.
-
 # 🚁 SmartDrone-Recommender-ML
 
 SmartDrone-Recommender-ML is a machine learning-powered system that helps users select optimal drone components based on their desired payload capacity. Whether you're building drones for delivery, surveillance, or emergency response, this tool streamlines the component selection process by analyzing performance data and recommending the best fit.
